@@ -1,7 +1,7 @@
 {
   "name": "project",
   "version": "1.0.0",
-  "description": "1. To-dos will be dinamically created objects, using classes to generate them",
+  "description": "Projects description",
   "private": "true",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "prettier": "3.1.1",
     "webpack": "^5.89.0",
     "webpack-cli": "^5.1.4"
   }
